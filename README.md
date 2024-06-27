@@ -14,7 +14,8 @@ The application uses React Native's built-in Appearance API to switch between li
 
 #### Screenshots
 
-![IMG-20240626-WA0083](https://github.com/BrightAgbemenu/rn-assignment5-11012985/assets/136804517/d9a945b0-c72a-4fff-b62e-d47411780ce3)
+
+![IMG-20240626-WA0108](https://github.com/BrightAgbemenu/rn-assignment5-11012985/assets/136804517/b6c002ef-3ab6-48f0-8ba1-6a8357d18415)
 
 
 ![IMG-20240626-WA0105](https://github.com/BrightAgbemenu/rn-assignment5-11012985/assets/136804517/3cfcb528-0ee3-46e8-976f-dd888c41cbf7)
